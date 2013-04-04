@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Tab Carousel Library</view_name>
+		<author>Andrew Neal</author>
+		<description>The Android Design Guidelines describe using Panels or Multi-pane Layouts. They use the People app from ICS as an example of this. Android-TabCarousel provides an easy way to integrate this widget into your apps and is compatible from Android v1.6+.</description>
+		<link>https://bitbucket.org/adneal/tabcarousellib/wiki/Home</link>
+		<license>Copyright 2013 Android Open Source Project
+Copyright 2013 Andrew Neal
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.tabcarousel.CarouselActivity</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Holo Circular ProgressBar</view_name>
+		<author>Pascal Welsch</author>
+		<description>HoloCircularProgressBar is a beautiful custom view implementation for Android you might know from the Android Clock App from Android 4.1.</description>
+		<link>https://github.com/passsy/android-HoloCircularProgressBar</link>
+		<license>Copyright 2013 Pascal Welsch
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>11+</os_level>
+		<class_name>com.trungkent.androidviewcollection.circularprogressbar.CircularProgressBarSample</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>SwipeListView</view_name>
+		<author>47 Degrees</author>
+		<description>The folks over at 47 Degrees release the source code for the super-useful SwipeListView Widget.
+SwipeListView is an Android List View implementation with support for drawable cells and many other swipe related features.
+You can install the sample APK or watch it in action.</description>
+		<link>https://github.com/47deg/android-swipelistview</link>
+		<license>Copyright (C) 2012 47 Degrees, LLC http://47deg.com hello@47deg.com
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.swipelistview.activities.SwipeListViewExampleActivity</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>TimesSquare for Android</view_name>
+		<author>Square</author>
+		<description>A simple, well-designed date picker for Android and iOS by Square.</description>
+		<link>https://github.com/square/android-times-square</link>
+		<license>Copyright 2012 Square, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.timesquare.SampleTimesSquareActivity</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>RoundedImageView</view_name>
+		<author>Romain Guy</author>
+		<description>RoundedImageView is an ImageView based on a blog post by Romain Guy showing the best way to do rounded corners in an ImageView. It’s extremely fast and has support for alpha, anti-aliasing, hardware acceleration, borders, and proper ScaleTypes.</description>
+		<link>https://github.com/makeramen/RoundedImageView</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.roundedimage.RoundedActivity</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Jazzy ViewPager</view_name>
+		<author>Jeremy Feinstein</author>
+		<description>An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!
+
+If you're looking at the name of the library and thinking "... so what does jazz have to do with it?" I'd like to direct you to the following definition that I found in a dictionary:
+
+jazz someone or something up:
+    to make someone or something more exciting or sexy;
+    to make someone or something appeal more to contemporary tastes.
+The aim of this library is to do exactly this: jazz up the normal, everyday ViewPager
+
+I've included a pretty barebones apk to show what the TransitionEffect.Tablet animation does. The example app will get better, but this is just to get something in your hands quickly :D!
+
+This project was inspired by CyanogenMod's Trebuchet launcher.</description>
+		<link>https://github.com/jfeinstein10/JazzyViewPager</link>
+		<license>Copyright 2013 Jeremy Feinstein
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.jazzyviewpager.MainActivity</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>StickyGridHeaders</view_name>
+		<author>Tonic Artos</author>
+		<description>StickyGridHeaders provides an enhanced GridView that shows items in sections with headers. By default the section headers will stick to the top of the view as sections scroll past like the People app in Android 4.x. StickyGridHeaders is designed to be low impact on your code base and you can easily interchange the original GridView with the one provided by StickyGridHeaders.
+To use StickyGridHeaders in your projects, simply add this project to your workspace then add it as a library project to your current project. For additional information refer to the project readme.</description>
+		<link>http://tonicartos.github.com/StickyGridHeaders/</link>
+		<license>Copyright 2013 Tonic Artos
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>QuiltView</view_name>
+		<author>Jacob Moncur</author>
+		<description>QuiltView displays views of different sizes in a horizontal/vertical scrollable grid.
+This library DEPENDS on gridlayout_v7.</description>
+		<link>https://github.com/jacobmoncur/QuiltViewLibrary</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Circular Seekbar</view_name>
+		<author>Raghab Sood</author>
+		<description>This one is a circular Seekbar view for Android.
+It behaves like any other View, and can be used in any Project.</description>
+		<link>https://github.com/RaghavSood/AndroidCircularSeekBar</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>StaggeredGridView</view_name>
+		<author>Maurycy Wojtowicz</author>
+		<description>This is a modified version of Android’s experimental StaggeredGridView. The StaggeredGridView allows the user to create a GridView with uneven rows similar to how Pinterest looks. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.
+To use StaggeredGridView in your projects, simply add this project to your workspace then add it as a library project to your current project.</description>
+		<link>https://github.com/maurycyw/StaggeredGridView</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Parallax ScrollView</view_name>
+		<author>Christopher Jenkins</author>
+		<description>A Parallax ScrollView which takes a background and foreground view, in the ParallexScrollView.</description>
+		<link>https://github.com/chrisjenx/ParallaxScrollView</link>
+		<license>Copyright 2012 Christopher Jenkins
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Holo ColorPicker</view_name>
+		<author>Lars Werkman</author>
+		<description>A beautiful Android Holo themed color picker designed by Marie Schweiz and Nick Butcher and developed by Lars Werkman.</description>
+		<link>https://github.com/LarsWerkman/HoloColorPicker</link>
+		<license>Copyright 2012 Lars Werkman
+
+ Licensed under the Apache License, Version 2.0 (the    "License");
+ you may not use this file except in compliance with    the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in  writing, software
+ distributed under the License is distributed on an     "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,  either express or implied.
+ See the License for the specific language governing    permissions and
+ limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>ICS CalendarView</view_name>
+		<author>SimonVT</author>
+		<description>The Andorid 4.0 CalendarView backported to Android 2.1</description>
+		<link>https://github.com/SimonVT/android-calendarview</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>CardsUI</view_name>
+		<author>Nadav Fima</author>
+		<description>Google’s Now popular Cards UI has everyone fascinated.
+Now a library I created mimicking that behaviour is available.
+The view might still be a little flaky, and the View’s code is not well documented, but the example really shows you how simple it all is.</description>
+		<link>https://github.com/nadavfima/cardsui-for-android</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>PagedDragDropGrid</view_name>
+		<author>Nicolas Desjardins</author>
+		<description>An Android ViewGroup that implements a paged grid with drag’n'drop movable items.
+Inspired by Bill Lahti‘s article Drag-Drop for an Android GridView.</description>
+		<link>https://github.com/mrKlar/PagedDragDropGrid</link>
+		<license>/**
+   * Copyright 2012 
+   * 
+   * Nicolas Desjardins  
+   * https://github.com/mrKlar
+   * 
+   * Facilite solutions
+   * http://www.facilitesolutions.com/
+   * 
+   * Permission is hereby granted, free of charge, to any person obtaining
+   * a copy of this software and associated documentation files (the
+   * "Software"), to deal in the Software without restriction, including
+   * without limitation the rights to use, copy, modify, merge, publish,
+   * distribute, sublicense, and/or sell copies of the Software, and to
+   * permit persons to whom the Software is furnished to do so, subject to
+   * the following conditions:
+   * 
+   * The above copyright notice and this permission notice shall be
+   * included in all copies or substantial portions of the Software.
+   * 
+   * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+  * NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+   * LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+   * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+   * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ */</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>NewPopupMenu</view_name>
+		<author>Yuichi Arai</author>
+		<description>Android-NewPopupMenu is an android library to create popup menu with GoogleMusic app-like style.</description>
+		<link>https://github.com/u1aryz/Android-NewPopupMenu</link>
+		<license>Copyright 2012 u1aryz
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>QuickReturn Listview</view_name>
+		<author>Lars Werkman</author>
+		<description>This is a implementation of the QuickReturn UI (aka Scrolling Tricks in AndroidViews) developed by Roman Nurik and Nick Butcher for a ListView.
+Lars recently added a QuickReturn UI for a footer, Just like in the Google+ app.</description>
+		<link>https://github.com/LarsWerkman/QuickReturnListView</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>IconicTextView</view_name>
+		<author>Artur Termenji</author>
+		<description>IconicTextView is an extension of Android TextView class which provides support for some iconic fonts.</description>
+		<link>https://github.com/atermenji/IconicTextView</link>
+		<license>Apache Version 2.0
+            Note that all fonts have their own license.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Range SeekBar</view_name>
+		<author>Tittel</author>
+		<description>The Android widget class library contains only one “slider” like widget: the SeekBar, which only supports one thumb control and thus handles only one selectable value. If you need a widget allowing to handle two values (like a minimum and maximum value or a range), this RangeSeekBar widget might suit your needs.
+It supports controlling minimum and maximum values on a numerical range of the following types: Long, Double, Integer, Float, Short, Byte and BigDecimal.</description>
+		<link>https://code.google.com/p/range-seek-bar/</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>RibbonMenu</view_name>
+		<author>David Scott</author>
+		<description>RibbonMenu, based on Google+ app, is a sliding drawer style navigation menu for Android.</description>
+		<link>https://github.com/darvds/RibbonMenu</link>
+		<license>Copyright 2012 David Scott
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Slide Expandable ListView</view_name>
+		<author>Tjerk Wolterink</author>
+		<description>Not happy with the Android’s ExpandableListView android offers? Want something like the Spotify app? This library allows you to have custom ListView in wich each list item has an area that will slide-out once the users clicks on a certain Button.</description>
+		<link>https://github.com/tjerkw/Android-SlideExpandableListView</link>
+		<license>Apache License, Version 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>ChartView</view_name>
+		<author>Nadav Fima</author>
+		<description>The following code was used to generate the chart in the image below. Custom attributes are set in the layout, and there are label adapters for the left and bottom axes.Everything is already implemented. Just download and use...</description>
+		<link>https://github.com/nadavfima/ChartView/</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>ViewPagerIndicator</view_name>
+		<author>Jake Wharton</author>
+		<description>The famous ViewPagerIndicator is a collection of paging indicator views, compatible with the ViewPager from the Android Support Library to improve discoverability of content.
+These widgets can also be used in conjunction with ActionBarSherlock!</description>
+		<link>https://github.com/JakeWharton/Android-ViewPagerIndicator/</link>
+		<license>Copyright 2012 Jake Wharton
+Copyright 2011 Patrik Åkerfeldt
+Copyright 2011 Francisco Figueiredo Jr.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>AutoScale TextView</view_name>
+		<author>Andreas Krings</author>
+		<description>Andreas Krings was in need of a TextView that has a fixed with but dynamic content, so I needed the content to automatically scale.</description>
+		<link>https://bitbucket.org/ankri/autoscaletextview/src/</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>ArcMenu</view_name>
+		<author>daCapricorn</author>
+		<description>An android custom view which looks like the menu in Path 2.0 (for iOS).</description>
+		<link>https://github.com/daCapricorn/ArcMenu</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Switch Compatibility Library</view_name>
+		<author>Andreas Krings</author>
+		<description>Finally, a custom view that mimics Android’sSwitch original widget. This one supports Android 2.2 (Froyo) and up.
+A Switch is a two-state toggle switch widget that can select between two options. The user may drag the “thumb” back and forth to choose the selected option, or simply tap to toggle as if it were a CheckBox.</description>
+		<link>https://github.com/ankri/SwitchCompatLibrary</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Scrolling Tricks</view_name>
+		<author>Roman Nurik and Nick Butcher</author>
+		<description>ScrollTricks implements two nifty little scroll tricks with ScrollView widget.
+Sticky — This trick is similar to the “synchronized scrolling” technique that Kirill Grouchnikov described here: http://goo.gl/BHbD7. It shows how to make a scrolling view (such as a ‘buy now’ button) stick to the top of its scroll container instead of scrolling off-screen.
+Quick Return — This is similar to Google Now‘s search box. It scrolls off-screen with the rest of the scrollable content, but upon scrolling slightly up at any point, it scrolls back into view. Quite a handy technique for search bars and the like.</description>
+		<link>https://code.google.com/p/romannurik-code/source/browse/misc/scrolltricks/</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Sliding Menu</view_name>
+		<author>Jeremy Feinstein</author>
+		<description>SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.</description>
+		<link>https://github.com/jfeinstein10/SlidingMenu/</link>
+		<license>Copyright 2012 Jeremy Feinstein
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>PinProgress</view_name>
+		<author>Roman Nurik</author>
+		<description>The standard ProgressBar view and activity indicators work well for most situations and should be used whenever possible to provide a consistent experience across Android. However, some situations may call for something more custom.
+The Pin/Progress view is a radial progress view with different states.
+The clolor indicates whether it’s downloaded (blue) or not (gray). The appearance of the pin indicates whether the download is permanent (white, upright) or temporary (gray, diagonal). And when state is in the process of changing, progress is indicated by a moving pie chart.</description>
+		<link>https://code.google.com/p/romannurik-code/source/browse/#git%2Fmisc%2Fpinprogress/</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>WizardPager</view_name>
+		<author>Roman Nurik</author>
+		<description>Entering data and filling out forms on mobile devices kind of sucks. Because of this, you generally want to put as much of the burden of data entry on yourself—the developer—as you can, and as little on the end user as possible. For example, registration forms with 10 input fields are likely to annoy users far more than those with only 2 input fields… or one… or even none (auto-fill the email and auto-generate a password!).
+Having said that, there are a number of very fair use cases that require a lot of user input, or complex user input, and have potentially nontrivial consequences. For example, customizing and ordering physical goods, scheduling bank transactions, or setting up a complex app (or operating system!) for the first time.
+Key features
+Branching, or the ability for wizard steps to influence the availability of later steps
+Allowing the user to review before committing
+Allowing the user freeform navigation between wizard steps
+Support for required and optional steps
+Support for step classes (technically, each step is an instance of a Java class, so you can have multiple instances within the wizard)</description>
+		<link>https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>GlowPadView (Lockring)</view_name>
+		<author>Nadav Fima</author>
+		<description>The GlowPadView library is basically Android’s Lock Ring (way of screen-unlocking and alarm dismissing), but extended and targeted to Honeycomb and later versions of Android. I tried getting it to run on Gingerbread, but even NineOldAndroids (http://nineoldandroids.com/) didn’t give me everything I needed.</description>
+		<link>https://github.com/nadavfima/GlowPadView</link>
+		<license>Copyright Nadav Fima © 2012. All rights reserved.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Showcase View</view_name>
+		<author>Alex Curran</author>
+		<description>The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. This library is great for pointing out points of interest for users, gestures, or obscure but useful items.
+
+The library is based on the "Cling" view found in the Launcher on Ice-Cream Sandwich and Jelly Bean, but extended to be easier to use.
+
+Please check out the website for more information.</description>
+		<link>https://github.com/Espiandev/ShowcaseView</link>
+		<license>Apache 2.0 License</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Chips Text Fields</view_name>
+		<author>Roman Nurik</author>
+		<description>A growing trend across social and communication-related apps is to afford recipient selection using tokenized auto-completing text fields. This kind of UI is more concise than list-based interfaces, and more visually rich, intuitive (exposes a better mental model), and directly manipulable (manage recipients by touching their token) than comma-separated text fields.
+So, if you’ve got a flow in your app that lets users select people—especially if they’re targeting people as content recipients—strongly consider this type of interface. Your users may thank you for it!</description>
+		<link>https://android.googlesource.com/platform/frameworks/ex/+/refs/heads/master/chips</link>
+		<license>Apache 2.0 License</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Wheel Widget for Android</view_name>
+		<author>Alessandro Crugnola</author>
+		<description>A realistic wheel view for Android, which vibrates on drag and seems to be spinning.</description>
+		<link>https://github.com/sephiroth74/AndroidWheel</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>PhotoView</view_name>
+		<author>Chris Banes</author>
+		<description>PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView. It is currently being used in photup.</description>
+		<link>https://github.com/chrisbanes/PhotoView</link>
+		<license>Copyright 2011, 2012 Chris Banes
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Android Lock Pattern</view_name>
+		<author>Chris Banes</author>
+		<description>Android has an useful tool in security settings, it is Lock Pattern. Users can define their own lock pattern ‒ which is a combination of 4+ dots.
+We have extracted this piece of code from Android source code, platform frameworks base. Then modified it a little, to make it easy to use in an application. Also we have changed the icons. If you want other ones, you can design them yourself. If you want the original icon set, refer to res-default.</description>
+		<link>https://code.google.com/p/android-lockpattern/</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Radial Menu Widget</view_name>
+		<author>Arindam Nath</author>
+		<description>This is a radial (pie) menu for Android. I couldn't find anything like it so I created it from scratch.</description>
+		<link>https://code.google.com/p/radial-menu-widget/</link>
+		<license>New BSD License</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Android-AppMsg (Crouton)</view_name>
+		<author>Evgeny Shishkin</author>
+		<description>Implementation of in-layout notifications. Based on Toast notifications and article The making of Prixing #4: in-layout notifications by Cyril Mottier.</description>
+		<link>http://johnkil.github.com/Android-AppMsg/</link>
+		<license>Copyright 2012 Evgeny Shishkin
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Pull To Refresh</view_name>
+		<author>Chris Banes</author>
+		<description>This project aims to provide a reusable Pull to Refresh widget for Android. It was originally based on Johan Nilsson’s library (mainly for graphics, strings and animations), but these have been replaced since.
+Features
+Supports both Pulling Down from the top, and Pulling Up from the bottom (or even both).
+Animated Scrolling for all devices.
+Over Scroll supports for devices on Android v2.3+.
+Currently works with ListView, ExpandableListView and GridView, WebView and ScrollView!
+Integrated End of List Listener for use of detecting when the user has scrolled to the bottom.
+Maven Support.
+Indicators to show the user when a Pull-to-Refresh is available.
+Support for ListFragment!
+Lots of Customisation options!</description>
+		<link>https://github.com/chrisbanes/Android-PullToRefresh</link>
+		<license>Copyright 2011, 2012 Chris Banes
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Android Coverflow</view_name>
+		<author/>
+		<description>A simple implementation of coverflow for Android. It is largely based on code example written by Neil Davies.
+The Coverflow view works pretty much like the standard Android Gallery widget, but with the addition of the rotation of the images.</description>
+		<link>https://code.google.com/p/android-coverflow/</link>
+		<license>New BSD License</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>AndroidDrawer</view_name>
+		<author>Łukasz Milewski</author>
+		<description>A simple but powerful menu drawer implementation. A lot of functionally are based on very good article by Cyril Mottier and Facebook mobile application.
+You don’t need to extend yet another Activity implementation, this simplify integration with bigger applications.</description>
+		<link>https://bitbucket.org/verdigo/drawer/</link>
+		<license>Copyright 2012 Łukasz Milewski, Verdigo Software
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Wheel Widget</view_name>
+		<author>Yuri Kanivets</author>
+		<description>The Wheel Widget by Yuri Kanivets is supposed to serve as Android’s equivalent to the iOS’ UIPickerView.
+The library features a few examples, such as Country/City selection, Date and Time selection.</description>
+		<link>https://code.google.com/p/android-wheel/</link>
+		<license>Apache License 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>Swipe-To-Dismiss</view_name>
+		<author>Roman Nurik</author>
+		<description>This is Android 4.0 style Swipe-To-Dismiss implementation.
+The implementation works on vertical LinearLayouts and ListViews as well, and should imitate the behaviour of Android 4.0+ app switcher.</description>
+		<link>https://gist.github.com/romannurik/2980593</link>
+		<license/>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>IndexableListView</view_name>
+		<author>Woozzu</author>
+		<description>iPhone like fast scroll ListView on Android.</description>
+		<link>https://github.com/woozzu/IndexableListView</link>
+		<license>Copyright 2011 woozzu
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>View Badger</view_name>
+		<author>Jeff Gilfelt</author>
+		<description>A simple way to “badge” any given Android view at runtime without having to cater for it in layout. Note: If your aim is to replicate the iOS icon and TabBar badge UI for notifications, consider using Android UI conventions such as the number field of the Notification class rather than this method.</description>
+		<link>https://github.com/jgilfelt/android-viewbadger</link>
+		<license>Author: Jeff Gilfelt
+
+The code in this project is licensed under the Apache Software License 2.0. 
+Copyright (c) 2011 readyState Software Ltd.</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+
+	<item>
+		<image1/>
+		<image2/>
+		<image3/>
+		<view_name>android-uitableview</view_name>
+		<author>Thiago Locatelli</author>
+		<description>iPhone-liked UITable view for Android</description>
+		<link>https://github.com/thiagolocatelli/android-uitableview</link>
+		<license>Copyright (c) 2011 [Thiago Locatelli] - "thiago:locatelli$gmail:com".replace(':','.').replace('$','@')
+
+Licensed under the Apache License, Version 2.0</license>
+		<os_level>7+</os_level>
+		<class_name>com.trungkent.androidviewcollection.</class_name>
+	</item>
+</items>

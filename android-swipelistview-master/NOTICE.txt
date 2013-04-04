@@ -1,0 +1,2 @@
+   This software contains code derived from Roman Nurik (https://gist.github.com/romannurik/2980593), 
+   including various modifications by 47 Degrees LLC.
